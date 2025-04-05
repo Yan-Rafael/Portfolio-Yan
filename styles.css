@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@
     line-height: 1.6;
   }
   
-  /* Container geral */
+  
   .container {
     width: 90%;
     max-width: 1000px;
@@ -20,7 +20,7 @@
     padding: 20px;
   }
   
-  /* Cabeçalho */
+  
   header {
     background: linear-gradient(135deg, #005f9e, #00b3ff);
     color: white;
@@ -40,7 +40,7 @@
     margin-bottom: 15px;
   }
   
-  /* Redes sociais */
+  
   .social-links {
     margin-top: 20px;
   }
@@ -57,7 +57,7 @@
     transform: scale(1.2);
   }
   
-  /* Seções gerais */
+  
   section {
     margin: 60px 0;
   }
@@ -68,12 +68,12 @@
     color: #005f9e;
   }
   
-  /* Sobre */
+  
   .sobre p {
     font-size: 18px;
   }
   
-  /* Projetos */
+  
   .projeto {
     background-color: #ffffff;
     border-left: 5px solid #00b3ff;
@@ -87,14 +87,14 @@
     margin-bottom: 10px;
   }
   
-  /* Habilidades */
+  
   .habilidades ul {
     list-style-type: square;
     margin-left: 20px;
     font-size: 17px;
   }
   
-  /* Contato */
+  
   .contato a {
     color: #005f9e;
     text-decoration: none;
@@ -104,7 +104,7 @@
     text-decoration: underline;
   }
   
-  /* Rodapé */
+  
   footer {
     background-color: #005f9e;
     color: white;
